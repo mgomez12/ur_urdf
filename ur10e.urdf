@@ -7,7 +7,7 @@
   <!--
     Base UR robot series xacro macro.
 
-    NOTE this is NOT a URDF. It cannot directly be loaded by consumers
+    NOTE this is NOT a URDF. It cannot directly be loaded by consumersa
     expecting a flattened '.urdf' file. See the top-level '.xacro' for that
     (but note that .xacro must still be processed by the xacro command).
 
